@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Development
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,js,flutter,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,js,flutter,mysql" />
 </p>
 
 ### 🎨 Design & Media
@@ -31,7 +31,7 @@
 
 ### ☁️ Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=gcp,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=gcp,vscode" />
 </p>
 
 ---
