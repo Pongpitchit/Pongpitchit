@@ -1,15 +1,65 @@
-<a>
-<B>Pongpitchit Sittipakdee <a></B>
+<h1 align="center">Hi 👋 I'm Pongpitchit Sittipakdee</h1>
+<h3 align="center">💻 Student Developer | IoT • Web App • System Design</h3>
 
-Student at Rangsit University<a>
-I am currently a student at Rangsit University. Feel free to check out my GitHub below!<a>
+<p align="center">
+🎓 Student at Rangsit University <br>
+🚀 Passionate about Web Development, IoT Systems and Cloud Technology  
+</p>
 
-<a href="https://www.github.com/Pongpitchit" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/Pongpitchit?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /> </a>
-💼 Skills
-I have a diverse set of skills across different tools and technologies:
+---
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /> </a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /> </a> <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /> </a> </p>
-🌐 Socials
-Let's connect!
+## 🌟 About Me
 
-<p align="left"> <a href="https://www.github.com/Pongpitchit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/Besttpopxlarr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> </p>
+- 🔭 Currently working on **Web Attendance System + IoT Projects**
+- 🌱 Learning **Full Stack Development & Cloud Deployment**
+- ⚡ Interested in **Automation, Smart Devices, System Architecture**
+- 📫 Contact me via Instagram or GitHub
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Development
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,js,flutter,firebase,mysql" />
+</p>
+
+### 🎨 Design & Media
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere" />
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pongpitchit&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pongpitchit&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://github.com/Pongpitchit">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/Besttpopxlarr">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+⭐️ From [Pongpitchit](https://github.com/Pongpitchit)
