@@ -11,20 +11,24 @@
 ---
 
 ## 🌟 About Me
-```yaml
-name: Pongpitchit Sittipakdee
-role: Student Developer
-university: Rangsit University
-focus:
-  - Web Attendance System
-  - IoT Projects
-  - Cloud Deployment
-interests:
-  - Automation
-  - Smart Devices
-  - System Architecture
-currently_learning: Full Stack Development & Cloud
-contact: Instagram | GitHub
+```json
+{
+  "name": "Pongpitchit Sittipakdee",
+  "role": "Student Developer",
+  "university": "Rangsit University",
+  "focus": [
+    "Web Attendance System",
+    "IoT Projects",
+    "Cloud Deployment"
+  ],
+  "interests": [
+    "Automation",
+    "Smart Devices",
+    "System Architecture"
+  ],
+  "currently_learning": "Full Stack Development & Cloud",
+  "contact": ["Instagram", "GitHub"]
+}
 ```
 
 ---
