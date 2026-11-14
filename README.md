@@ -57,9 +57,8 @@ I like taking an idea all the way from a class assignment to something people ca
 | Project | What it is | Stack |
 |---|---|---|
 | [IOT-DIT311](https://github.com/Pongpitchit/IOT-DIT311) | Plant monitoring dashboard | `Next.js` `Firebase` |
-| [iot-smart](https://github.com/Pongpitchit/iot-smart) | Backend service for the IoT system | `Node.js` |
-| [ESP](https://github.com/Pongpitchit/ESP) | ESP32 / LoRa32 firmware | `C++` |
-| [DIT311](https://github.com/Pongpitchit/DIT311) | ESP8266 sketches | `C++` `Arduino` |
+| [IOT-DIT311 / backend](https://github.com/Pongpitchit/IOT-DIT311/tree/main/backend) | Backend service for the IoT system | `Node.js` |
+| [IOT-DIT311 / firmware](https://github.com/Pongpitchit/IOT-DIT311/tree/main/firmware) | ESP32 / LoRa32 and ESP8266 firmware | `C++` `Arduino` |
 
 </details>
 
@@ -69,7 +68,7 @@ I like taking an idea all the way from a class assignment to something people ca
 | Project | What it is | Stack |
 |---|---|---|
 | [Fall-Detection](https://github.com/Pongpitchit/Fall-Detection) | YOLO-based fall detection | `Python` |
-| [Opencv-linebot-API](https://github.com/Pongpitchit/Opencv-linebot-API) | LINE bot alerts backed by OpenCV | `Python` |
+| [Fall-Detection / linebot](https://github.com/Pongpitchit/Fall-Detection/tree/main/linebot) | LINE bot alerts when a fall is detected | `Python` |
 | [DIT323-ML-Netflix-Sentiment-Analysis](https://github.com/Pongpitchit/DIT323-ML-Netflix-Sentiment-Analysis) | Sentiment analysis on Netflix data · [demo](https://dit-323-ml-netflix-sentiment-analys.vercel.app) | `Python` `ML` |
 | [DIT315-Mini-Project-Interactive](https://github.com/Pongpitchit/DIT315-Mini-Project-Interactive) | Solar Odyssey: explore the solar system in VR | `A-Frame` |
 
