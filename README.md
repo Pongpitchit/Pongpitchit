@@ -17,24 +17,63 @@
 I'm **Pongpitchit**, a Digital Innovation student at **Rangsit University**, Thailand.
 I like taking an idea all the way from a class assignment to something people can actually use: a web app in Docker, a device that talks to the cloud, a model that watches a camera feed.
 
-- 🔭 **Working on:** Web Attendance system and a local RAG service with Ollama + ChromaDB
+- 🔭 **Working on:** Flower Valley (3D web game) and a local RAG service with Ollama + ChromaDB
 - 🌱 **Learning:** full-stack development, cloud deployment, applied AI
 - 🤝 **Open to:** internships, student projects, and hackathon teams
 - 💬 **Ask me about:** Next.js, Docker, ESP32, Flutter, OpenCV
-- ⚡ **Fun fact:** powered by caffeine ☕
 
 ---
 
-### 🛠️ Featured projects
+### ⭐ Featured
+
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| 🌷 **[Flower-Valley](https://github.com/Pongpitchit/Flower-Valley)** | Slow-life 3D web game: grow flowers, fish, paint, explore 6 scenes | `A-Frame` `React` `TypeScript` | [Play](https://flower-valley-beige.vercel.app) |
+| 🧾 **[Qrcode-Order-Docker](https://github.com/Pongpitchit/Qrcode-Order-Docker)** | Scan-a-QR-code food ordering system | `TypeScript` `Docker` | [Demo](https://qrcode-order-docker.vercel.app) |
+| 📋 **[Trello-Clone](https://github.com/Pongpitchit/Trello-Clone)** | Drag-and-drop boards with auth | `Next.js` `Prisma` `PostgreSQL` `Bun` | [Demo](https://trello-neon-ten.vercel.app) |
+| 🌱 **[IOT-DIT311](https://github.com/Pongpitchit/IOT-DIT311)** | Smart home plant monitoring with LINE LIFF | `Next.js` `Firebase` `ESP32` | — |
+| 🧍 **[Fall-Detection](https://github.com/Pongpitchit/Fall-Detection)** | Detects falls from camera video | `Python` `YOLO` `OpenCV` | — |
+| ☕ **[flutter_dit](https://github.com/Pongpitchit/flutter_dit)** · **[Coffee API](https://github.com/Pongpitchit/BackEndAPI-Coffee-for-Flutter)** | Coffee ordering app with its own REST API | `Flutter` `Express` `MySQL` | [API](https://apicoffee-flutter.vercel.app) |
+
+<details>
+<summary><b>🌐 Web & full stack</b></summary>
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🗓️ **[Web-Attendance](https://github.com/Pongpitchit/Web-Attendance)** | Web-based attendance and check-in system | `TypeScript` |
-| 🧾 **[Qrcode-Order-Docker](https://github.com/Pongpitchit/Qrcode-Order-Docker)** | Scan-a-QR-code ordering system, containerized with Docker | `TypeScript` `Docker` |
-| 📡 **[IOT-DIT311](https://github.com/Pongpitchit/IOT-DIT311)** · **[ESP](https://github.com/Pongpitchit/ESP)** | IoT dashboard plus ESP firmware for smart devices | `TypeScript` `C++` `ESP32` |
-| 🧍 **[Fall-Detection](https://github.com/Pongpitchit/Fall-Detection)** | Detects falls from camera video | `Python` `OpenCV` |
-| 🤖 **[Opencv-linebot-API](https://github.com/Pongpitchit/Opencv-linebot-API)** | LINE bot backed by an OpenCV image-processing API | `Python` `OpenCV` |
-| ☕ **[flutter_dit](https://github.com/Pongpitchit/flutter_dit)** · **[Coffee API](https://github.com/Pongpitchit/BackEndAPI-Coffee-for-Flutter)** | Flutter app with its own Node.js backend | `Dart` `Flutter` `Node.js` |
+| [FullStack-Next.js](https://github.com/Pongpitchit/FullStack-Next.js) | Netflix-style CRUD dashboard (DIT205) · [demo](https://next-dit205.vercel.app) | `Next.js` `MySQL` |
+| [Dotolist](https://github.com/Pongpitchit/Dotolist) | Tellro: team task tracker that runs on a LAN | `Docker` `JavaScript` |
+| [Fullstack-Docker](https://github.com/Pongpitchit/Fullstack-Docker) | Next.js + Express + MySQL with Docker Compose | `Docker` |
+| [website-face](https://github.com/Pongpitchit/website-face) | Stormalong Shop: themed online store | `Next.js` `Supabase` |
+| [fashion-store-v0](https://github.com/Pongpitchit/fashion-store-v0) | Fashion store with a local LLM assistant · [demo](https://fashion-store-v0.vercel.app) | `Next.js` `Ollama` |
+| [Thailand-Journey-v3](https://github.com/Pongpitchit/Thailand-Journey-v3) | AI travel guide mockup · [demo](https://thailand-journey.vercel.app) | `Next.js` |
+| [CavyHouses](https://github.com/Pongpitchit/CavyHouses) | Gatsby + WordPress site · [demo](https://cavy-houses.vercel.app) | `Gatsby` `WordPress` |
+| [DIT201-database](https://github.com/Pongpitchit/DIT201-database) | Database course work | `PHP` `MySQL` |
+
+</details>
+
+<details>
+<summary><b>📡 IoT & hardware</b></summary>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [IOT-DIT311](https://github.com/Pongpitchit/IOT-DIT311) | Plant monitoring dashboard | `Next.js` `Firebase` |
+| [iot-smart](https://github.com/Pongpitchit/iot-smart) | Backend service for the IoT system | `Node.js` |
+| [ESP](https://github.com/Pongpitchit/ESP) | ESP32 / LoRa32 firmware | `C++` |
+| [DIT311](https://github.com/Pongpitchit/DIT311) | ESP8266 sketches | `C++` `Arduino` |
+
+</details>
+
+<details>
+<summary><b>🤖 AI, ML & interactive</b></summary>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Fall-Detection](https://github.com/Pongpitchit/Fall-Detection) | YOLO-based fall detection | `Python` |
+| [Opencv-linebot-API](https://github.com/Pongpitchit/Opencv-linebot-API) | LINE bot alerts backed by OpenCV | `Python` |
+| [DIT323-ML-Netflix-Sentiment-Analysis](https://github.com/Pongpitchit/DIT323-ML-Netflix-Sentiment-Analysis) | Sentiment analysis on Netflix data · [demo](https://dit-323-ml-netflix-sentiment-analys.vercel.app) | `Python` `ML` |
+| [DIT315-Mini-Project-Interactive](https://github.com/Pongpitchit/DIT315-Mini-Project-Interactive) | Solar Odyssey: explore the solar system in VR | `A-Frame` |
+
+</details>
 
 <div align="center">
 
@@ -52,13 +91,13 @@ I like taking an idea all the way from a class assignment to something people ca
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark"/>
 
 **Backend and data**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,prisma,firebase,supabase,docker&theme=dark"/>
 
 **Mobile, IoT and AI**<br>
 <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,arduino,python,opencv&theme=dark"/>
 
 **Cloud, tools and design**<br>
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,figma,ps,pr&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vercel,gcp,git,github,vscode,figma,ps,pr&theme=dark"/>
 
 </div>
 
